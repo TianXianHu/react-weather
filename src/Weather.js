@@ -106,7 +106,7 @@ export default function Weather() {
             </Col>
           </Row>
           <Row>
-            <Col md={4}>картинка</Col>
+            <Col md={4}>how to change this thing? </Col>
             <Col md={8} className="weatherspecs">
               <ul>
                 <li>Temperature: °C</li>
